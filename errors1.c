@@ -9,7 +9,7 @@
 int _erratoi(char *s)
 {
 	int i = 0;
-	unsigned long int result = 0;
+	unsigned long int resul = 0;
 
 	if (*s == '+')
 		s++;  /* TODO: why does this make main return 255? */
